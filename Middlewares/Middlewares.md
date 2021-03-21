@@ -1,6 +1,6 @@
 # Middlewares
 
-A solid understanding of CDNs, Proxies, Load Balancers, and Caching workarounds.
+A solid understanding of CDNs, Proxies, Load Balancers, and different Caching workarounds.
 
 ## Table of Contents
 
