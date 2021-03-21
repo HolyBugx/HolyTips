@@ -95,7 +95,7 @@ You can think of the reverse proxy as a website’s "public face." Its address i
 
 **Load Balancing**
 
-- Because reverse proxy server are the gateway between users and the application’s origin server, they’re able to determine where to route individual HTTP sessions, so they cant act as a load balancer.
+- Because reverse proxy server are the gateway between users and the application’s origin server, they’re able to determine where to route individual HTTP sessions, so they can act as a load balancer.
 
 **Caching**
 
