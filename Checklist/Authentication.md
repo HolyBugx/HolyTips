@@ -1,0 +1,23 @@
+## Authentication
+
+- Registration
+    - Input validation
+        - [ ]  Space manipulation & Using Dots & Case sensivity check
+        - [ ]  Checking allowed characters (`**<> " '`)**
+        - [ ]  Register using **`myemail%00@email.com`** or ****(%0d, %0a)
+        - [ ]  Register using `**myemail@target.com`**
+            - Response manipulate from `**401 Unauthorized**` to `**200 Ok**` or `**302 Found**`
+    - Analysis
+        - [ ]  Check `**.js**` file on the page, such as `**login.js**`
+        - [ ]  Check the parameters used on the endpoint
+            - Might be listed in the `**source**` or `**js**`
+        - [ ]  Checking the Mobile Endpoint
+            - Does it have the same protection as webapp?
+            - How does it treat Unicode characters?
+        - [ ]  Google Dorks
+            - `**site:example.com inurl:register inurl:&**`
+            - `**site:example.com inurl:signup inurl:&**`
+            - `**site:example.com inurl:join inurl:&**`
+    - Misc
+        - [ ]  Email Takeover
+            - Register an Email, before confirming, change the email. check if the new confirmation email is sent to the first registered email.
