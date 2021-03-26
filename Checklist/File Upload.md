@@ -30,7 +30,7 @@
         - `file.php.....`
         - `file.php/`
         - `file.php.\`
-        - `file.php#.png` (Worked on apple.com)
+        - `file.php#.png`
         - `file.`
         - `.html`
     - Vulnerabilities
