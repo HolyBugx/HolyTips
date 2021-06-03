@@ -1,6 +1,6 @@
 ## Resources & Disclosed Reports 📝
 
-**A collection of my favorite Resources & Disclosed reports ordered by Vulnerability Types**
+**A collection of my favorite Bug Bounty Resources & Disclosed reports ordered by Vulnerability Types**
 
 - [Starting out](#Starting-Out)
 - [Books](#Books)
