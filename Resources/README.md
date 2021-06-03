@@ -120,12 +120,12 @@
 ## Race-Condition
 
 - [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026)
-- [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140) to The Internet
+- [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140)
 - [Race condition in Flash workers may cause an exploitable double free](https://hackerone.com/reports/37240)
 - [Race condition in activating email resulting in infinite amount of diamonds received](https://hackerone.com/reports/509629)
 - [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534)
 - [Race condition allowing user to review app multiple times](https://hackerone.com/reports/106360)
-- [Race Condition in account survey](https://hackerone.com/reports/165570) to Slack
+- [Race Condition in account survey](https://hackerone.com/reports/165570)
 - [Race condition on "This Rocks" button.](https://hackerone.com/reports/474021)
 
 ---
