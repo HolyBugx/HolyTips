@@ -174,9 +174,9 @@
 - [Tesla Motors blind SQLI](https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection)
 - [Blind SQL Injection on windows10.hi-tech.mail.ru](https://hackerone.com/reports/786044)
 - [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400)
-- [Step by Step Exploiting SQLI in Oculus](https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html)
+- [Step by Step Exploiting SQL Injection in Oculus](https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html)
 - [SQL Injection in lapsuudenturva](https://hackerone.com/reports/191146)
-- [Yahoo – Root Access SQLI – tw.yahoo.com](https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/)
+- [SQL Injection Root Access tw.yahoo.com](https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/)
 
 ---
 ## Misc
