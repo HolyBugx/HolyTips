@@ -84,7 +84,7 @@
 ## CSRF
 
 - [CSRF on connecting Paypal as Payment Provider](https://hackerone.com/reports/807924)
-- [Account Takeover using Linked Accounts due to lack of CSRF protection](https://hackerone.com/reports/463330)
+- [CSRF on Periscope Web OAuth authorization endpoint ](https://hackerone.com/reports/215381)
 - [CSRF combined with IDOR within Document Converter exposes files](https://hackerone.com/reports/398316)
 - [CSRF in all API endpoints when authenticated using HTTP Authentication](https://hackerone.com/reports/195156)
 - [The mass CSRFing of \*.google.com/\* products.](http://www.missoumsai.com/google-csrfs.html)
@@ -92,41 +92,43 @@
 - [Media deletion CSRF vulnerability on Instagram](https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html)
 - [Facebook CSRF protection bypass which leads to Account Takeover](https://ysamm.com/?p=185)
 
+
 ---
 ## IDOR
 
-- [IDOR to add secondary users in www.paypal.com](https://hackerone.com/reports/415081)
+- [IDOR bug to See hidden slowvote of any user even when you dont have access right](https://hackerone.com/reports/661978)
 - [IDOR allow access to payments data of any user](https://hackerone.com/reports/751577)
-- [IDOR to Order,Book,Buy,reserve On YELP](https://hackerone.com/reports/391092)
-- [IDOR to Link Other User's Credit Card ](https://hackerone.com/reports/358143)
+- [IDOR Causing Deletion of any account](https://hackerone.com/reports/156537)
+- [IDOR allow to extract all registered email](https://hackerone.com/reports/302485)
 - [Another image removal vulnerability on Facebook](https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html)
 - [Gsuite Hangouts Chat 5k IDOR](https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html)
-- [IDOR in activateFuelCard id allows bulk lookup of driver uuids](https://hackerone.com/reports/254151)
-- [Steal Earning of Airbnb hosts by Adding Bank Account/Payment Method](https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html)
+- [How I pwned a company using IDOR and Blind XSS](https://www.ansariosama.com/2017/11/how-i-pwned-company-using-idor-blind-xss.html)
+- [Disclose Private Dashboard Chart's name and data in Facebook Analytics](https://bugreader.com/jubabaghdad@disclose-private-dashboard-charts-name-and-data-in-facebook-analytics-184)
 
 ---
 ## Open-Redirect
 
-- [Open redirects that matter](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter)
+- [Open Redirects that matter](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter)
 - [XSS and Open Redirect on MoPub Login](https://hackerone.com/reports/683298)
-- [XSS and Open Redirect on mcs main domain](https://hackerone.com/reports/996262)
-- [XSS and Open redirect on supporthiring.shopify.com](https://hackerone.com/reports/158434)
-- [Open Redirect in secure.showmax.com](https://hackerone.com/reports/749338)
-- [Open Redirection on m.vk.com](https://hackerone.com/reports/347645)
-- [Open redirect on "Language change"](https://hackerone.com/reports/52035)
-- [Open redirect on hq-api.upserve.com](https://hackerone.com/reports/497664)
+- [XSS and Open Rredirect on supporthiring.shopify.com](https://hackerone.com/reports/158434)
+- [Open Redirect in secure.showmax.com](https://medium.com/@ahmadbrainworks/bug-bounty-how-i-earned-550-in-less-than-5-minutes-open-redirect-chained-with-rxss-8957979070e5)
+- [Open Redirect on streamlabs.com](https://hackerone.com/reports/978680)
+- [Open Redirect on "Language change"](https://hackerone.com/reports/52035)
+- [Open Redirect idp.fr.cloud.gov](https://hackerone.com/reports/387007)
+- [Airbnb chaining third party open redirect into SSRF via liveperson chat](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)
+- [Oauth authentication bypass on airbnb acquistion using wierd 1 char open redirect](https://xpoc.pro/oauth-authentication-bypass-on-airbnb-acquisition-using-weird-1-char-open-redirect/)
 
 ---
 ## Race-Condition
 
-- [Race condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026)
+- [Race Condition in performing retest allows duplicated payments](https://hackerone.com/reports/429026)
 - [Race Conditions in OAuth 2 API implementations](https://hackerone.com/reports/55140)
-- [Race condition in Flash workers may cause an exploitable double free](https://hackerone.com/reports/37240)
-- [Race condition in activating email resulting in infinite amount of diamonds received](https://hackerone.com/reports/509629)
+- [Race Condition in Flash workers may cause an exploitable double free](https://hackerone.com/reports/37240)
+- [Exploiting a Race condition vulnerabililty](https://medium.com/@vincenz/exploiting-a-race-condition-vulnerability-3f2cb387a72)
 - [Race Condition leads to undeletable group member](https://hackerone.com/reports/604534)
-- [Race condition allowing user to review app multiple times](https://hackerone.com/reports/106360)
+- [Race Condition on web](https://www.josipfranjkovic.com/blog/race-conditions-on-web)
 - [Race Condition in account survey](https://hackerone.com/reports/165570)
-- [Race condition on "This Rocks" button.](https://hackerone.com/reports/474021)
+- [Race Condition at create new Location](https://hackerone.com/reports/413759)
 
 ---
 ## Subdomain-Takeover
@@ -135,8 +137,8 @@
 - [Subdomain Takeover on happymondays.starbucks.com due to non-used AWS S3 DNS record](https://hackerone.com/reports/186766)
 - [Subdomain Takeover on wfmnarptpc.starbucks.com](https://hackerone.com/reports/388622)
 - [Subdomain Takeover on svcgatewaydevus.starbucks.com and svcgatewayloadus.starbucks.com](https://hackerone.com/reports/383564)
-- [Subdomain Takeover on http://support.scan.me pointing to Zendesk (a Snapchat acquisition)](https://hackerone.com/reports/114134)
-- [Subdomain Takeover on multiple uber subdomains](https://hackerone.com/reports/149679)
+- [Subdomain Takeover: new level](https://medium.com/bugbountywriteup/subdomain-takeover-new-level-43f88b55e0b2)
+- [Subdomain Takeover on svcardproxydevus.starbucks.com](https://hackerone.com/reports/380158)
 - [Subdomain Takeover on blog.greenhouse.io pointing to Hubspot](https://hackerone.com/reports/38007)
 - [Subdomain Takeover on openapi.starbucks.com](https://hackerone.com/reports/241503)
 
@@ -145,9 +147,9 @@
 
 - [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876)
 - [SSRF using Javascript allows to exfill data from Google Metadata](https://hackerone.com/reports/530974)
-- [SSRF & LFR on city-mobil.ru](https://hackerone.com/reports/748128)
+- [SSRF in Google cloud platform stackdriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)
 - [SSRF to ROOT Access](https://hackerone.com/reports/341876)
-- [AWS takeover through SSRF in JavaScript](http://10degres.net/aws-takeover-through-ssrf-in-javascript/)
+- [SSRF reading local files from downnotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)
 - [Facebook SSRF](https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5)
 - [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html)
 - [How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)
@@ -159,22 +161,22 @@
 - [XXE on sms-be-vip.twitter.com in SXMP Processor](https://hackerone.com/reports/248668)
 - [XXE and SSRF on webmaster.mail.ru](https://hackerone.com/reports/12583)
 - [XXE in Site Audit function exposing file and directory contents](https://hackerone.com/reports/312543)
-- [XXE on DoD web server](https://hackerone.com/reports/188743)
+- [Blind OOB XXE on ubermovement.com](https://hackerone.com/reports/154096)
 - [XXE over which leads to RCE](https://hackerone.com/reports/55431)
 - [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139)
-- [Blind XXE on my.mail.ru](https://hackerone.com/reports/276276)
+- [Non-production Open Database In Combination With XXE Leads To SSRF](https://hackerone.com/reports/742808)
 
 ---
 ## SQLi
 
-- [Boolean-based SQL Injection on relap.io](https://hackerone.com/reports/745938)
-- [Blind SQL Injection in city-mobil.ru domain](https://hackerone.com/reports/711075)
-- [Blind SQL Injection on news.mail.ru](https://hackerone.com/reports/732430)
+- [Bypassing a crappy WAF to exploit a blind SQLI](https://robinverton.de/blog/2019/08/25/bug-bounty-bypassing-a-crappy-waf-to-exploit-a-blind-sql-injection/)
+- [Magix Bug Bounty: magix.com (RCE, SQLi) and xara.com (LFI, XSS)](https://www.rcesecurity.com/2014/04/magix-bug-bounty-magix-com-rce-sqli-and-xara-com-lfi-xss/)
+- [Tesla Motors blind SQLI](https://bitquark.co.uk/blog/2014/02/23/tesla_motors_blind_sql_injection)
 - [Blind SQL Injection on windows10.hi-tech.mail.ru](https://hackerone.com/reports/786044)
 - [Blind SQLi leading to RCE, from Unauthenticated access to a test API Webservice](https://hackerone.com/reports/592400)
-- [SQL Injection on allods.mail.ru](https://hackerone.com/reports/738740)
+- [Step by Step Exploiting SQLI in Oculus](https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html)
 - [SQL Injection in lapsuudenturva](https://hackerone.com/reports/191146)
-- [Active Record SQL Injection Vulnerability Affecting PostgreSQL](https://hackerone.com/reports/28449)
+- [Yahoo – Root Access SQLI – tw.yahoo.com](https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/)
 
 ---
 ## Misc
