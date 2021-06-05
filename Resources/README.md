@@ -67,6 +67,7 @@
 - [How To Do Recon: Introduction to Recon](https://youtu.be/o8L2nweiF1s)
 - [Just another Recon Guide for Pentesters and Bug Bounty Hunters](https://www.offensity.com/de/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/)
 - [The Best Bug Bounty Recon Methodology](https://securib.ee/beelog/the-best-bug-bounty-recon-methodology/)
+- [The Art of Subdomain Enumeration](https://appsecco.com/books/subdomain-enumeration/)
 
 ---
 ## XSS
