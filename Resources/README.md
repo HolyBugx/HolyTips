@@ -63,7 +63,7 @@
 ---
 ## Web-Security
 
-- [Finding The Origin IP Behind CDNs](https://zdresearch.com/finding-the-origin-ip-behind-cdns/)
+- [Finding The Origin IP Behind CDNs](https://infosecwriteups.com/finding-the-origin-ip-behind-cdns-37cd18d5275)
 - [Accessing cross-site data using JSONP](https://www.sjoerdlangkemper.nl/2019/01/02/jsonp/)
 - [Hacking the SOP](https://medium.com/swlh/hacking-the-same-origin-policy-f9f49ad592fc)
 - [LocalStorage vs Cookie XSS](https://academind.com/tutorials/localstorage-vs-cookies-xss/)
