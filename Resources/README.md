@@ -6,6 +6,7 @@
 - [Books](#Books)
 - [Blogs](#Blogs)
 - [Training Platforms](#Training-Platforms)
+- [Web Security](#Web-Security)
 - [Recon](#Recon)
 - [XSS](#XSS)
 - [CSRF](#CSRF)
@@ -58,6 +59,14 @@
 - [Rootme](https://www.root-me.org/?lang=en)
 - [PicoCTF](https://picoctf.org)
 - [GoogleCTF](https://capturetheflag.withgoogle.com)
+
+---
+## Web-Security
+
+- [Finding The Origin IP Behind CDNs](https://zdresearch.com/finding-the-origin-ip-behind-cdns/)
+- [Accessing cross-site data using JSONP](https://www.sjoerdlangkemper.nl/2019/01/02/jsonp/)
+- [LocalStorage vs Cookie XSS](https://academind.com/tutorials/localstorage-vs-cookies-xss/)
+- [Cross-Site script inclusion](https://www.scip.ch/en/?labs.20160414)
 
 ---
 ## Recon
@@ -179,7 +188,4 @@
 - [SQL Injection in lapsuudenturva](https://hackerone.com/reports/191146)
 - [SQL Injection Root Access tw.yahoo.com](https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/)
 
----
-## Misc
 
-- [Finding The Origin IP Behind CDNs](https://zdresearch.com/finding-the-origin-ip-behind-cdns/)
