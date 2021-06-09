@@ -68,6 +68,10 @@
 - [Hacking the SOP](https://medium.com/swlh/hacking-the-same-origin-policy-f9f49ad592fc)
 - [LocalStorage vs Cookie XSS](https://academind.com/tutorials/localstorage-vs-cookies-xss/)
 - [Cross-Site script inclusion](https://www.scip.ch/en/?labs.20160414)
+- [How to Hunt Bugs in SAML; a Methodology - Part I](https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/)
+- [How to Hunt Bugs in SAML; a Methodology - Part II](https://epi052.gitlab.io/notes-to-self/blog/2019-03-13-how-to-test-saml-a-methodology-part-two/)
+- [How to Hunt Bugs in SAML; a Methodology - Part III](https://epi052.gitlab.io/notes-to-self/blog/2019-03-16-how-to-test-saml-a-methodology-part-three/)
+- [SAML Attack Surface](https://github.com/kelbyludwig/saml-attack-surface)
 
 ---
 ## Recon
