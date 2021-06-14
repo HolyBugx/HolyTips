@@ -59,6 +59,7 @@
 - [Rootme](https://www.root-me.org/?lang=en)
 - [PicoCTF](https://picoctf.org)
 - [GoogleCTF](https://capturetheflag.withgoogle.com)
+- [Rawsec - Challenge platforms](https://inventory.raw.pm/resources.html#title-resources-challenges-platforms)
 
 ---
 ## Web-Security
@@ -193,4 +194,7 @@
 - [SQL Injection in lapsuudenturva](https://hackerone.com/reports/191146)
 - [SQL Injection Root Access tw.yahoo.com](https://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/)
 
+## Misc
 
+- [Rawsec's CyberSecurity Inventor - An inventory of tools and resources about CyberSecurity](https://inventory.raw.pm/)
+- [Rawsec - Bug Bounty focused tools](https://inventory.raw.pm/tools.html#title-tools-bug-bounty)
