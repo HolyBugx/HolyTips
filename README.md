@@ -1,7 +1,6 @@
-# HolyTips
-
-- **Tips and Tutorials on Bug Bounty Hunting and Web Application Security.**
-- **Including my Bug Bounty Checklists, Bug Bounty Resources & Web Application Security writeups.**
-- **Follow me on twitter for updates [@HolyBugx](https://twitter.com/HolyBugx)**
-
-![Holy Tips (1)](https://user-images.githubusercontent.com/71842138/111982008-5955fb00-8b00-11eb-9810-964963ab8d07.png)
+![HolyTips-New](https://user-images.githubusercontent.com/71842138/124362680-0115b580-dc26-11eb-8c34-197187129b5a.png)
+<div align = "center"> <h1> HolyTips </h1> 
+A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
+  
+  <br> <a href=https://twitter.com/HolyBugx> ![](https://img.shields.io/twitter/follow/HolyBugx?style=social) </a> <a href=https://github.com/HolyBugx> ![](https://img.shields.io/github/followers/HolyBugx?label=Follow%20%40HolyBugx&style=social) </a>
+</div>
