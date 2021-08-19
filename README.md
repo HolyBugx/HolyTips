@@ -1,4 +1,5 @@
-![HolyTips-New](https://user-images.githubusercontent.com/71842138/124362680-0115b580-dc26-11eb-8c34-197187129b5a.png)
+![Holy](https://user-images.githubusercontent.com/71842138/130051116-59ce3e4c-97b6-4c6a-afdd-c82142e3d422.png)
+
 <div align = "center"> <h1> HolyTips </h1> 
 A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
   
