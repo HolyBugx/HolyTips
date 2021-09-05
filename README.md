@@ -4,6 +4,7 @@
 A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
   
 <p align="center">
+  <br>
   <a href="http://twitter.com/holybugx">
     <img src="https://img.shields.io/twitter/follow/holybugx?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
