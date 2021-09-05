@@ -5,6 +5,6 @@
     <img src="https://img.shields.io/twitter/follow/holybugx?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://github.com/holybugx?tab=followers">
-    <img src="https://img.shields.io/github/followers/holybugx?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/holybugx?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
