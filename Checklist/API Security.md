@@ -22,41 +22,41 @@
         - Google Dorks
 
         ```
-        **site:target.tld inurl:api
+        site:target.tld inurl:api
         site:target.tld intitle:"index of" "api.yaml"
         site:target.tld inurl:/application.wadl
         site:target.tld ext:wsdl inurl:/%24metadata
         site:target.tld ext:wadl
         site:target.tld ext:wsdl
         user filetype:wadl
-        user filetype:wsdl**
+        user filetype:wsdl
         ```
 
         - Check different `Content-Types`
 
         ```
-        **x-www-form-urlencoded --> user=test
+        x-www-form-urlencoded --> user=test
         application/json --> {"user": "test"}
-        application/xml --> <user>test</user>**
+        application/xml --> <user>test</user>
         ```
 
         - If it's regular POST data try sending arrays, dictionaries
 
         ```
-        **username[]=John
-        username[$neq]=lalala**
+        username[]=John
+        username[$neq]=lalala
         ```
 
         - If JSON is supported try to send unexpected data types
 
         ```
-        **{"username": "John"}
+        {"username": "John"}
         {"username": true}
         {"username": null}
         {"username": 1}
         {"username": [true]}
         {"username": ["John", true]}
-        {"username": {"$neq": "lalala"}}**
+        {"username": {"$neq": "lalala"}}
         ```
 
         - If XML is supported, check for XXE
